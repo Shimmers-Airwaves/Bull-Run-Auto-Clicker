@@ -1,2 +1,1 @@
-# Bull-Run-Auto-Clicker
-Bull-Run-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
